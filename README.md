@@ -20,6 +20,10 @@
 - npm i nodemon    <!-- auto re render when changes occur -->
 - npm i shortid     <!-- to generate short ids -->
 
+### shortid
+- **install:** npm i shortid 
+- to generate short ids
+- const { shortid } = require('shortid');     <!-- requiring as object -->
 
 
 ### nanoid
